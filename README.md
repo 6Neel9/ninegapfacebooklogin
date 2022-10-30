@@ -8,10 +8,6 @@
 > + Change permissions and delete user accounts with Admin.
 > - Below is the Demo link, if you find it interesting, please subscribe to the channel. I will be making a tutorial video in the near future. Thanks and have a good day!💓💓
 
-## Demo: https://devat-full-auth.herokuapp.com/
-
-## Author: Dev AT
-## Youtube tutorials: https://youtu.be/npsi7ZkjvQo
 
 ## Install dependencies for server 
 ### `npm install`
